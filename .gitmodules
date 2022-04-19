@@ -1,3 +1,7 @@
 [submodule "mustache"]
 	path = mustache
+<<<<<<< HEAD
 	url = https://github.com/mustache/spec.git
+=======
+	url = https://github.com/mustache/spec.git
+>>>>>>> 4e64c4b5e5b0811098a5cf2f0d9aad15a9af9858
